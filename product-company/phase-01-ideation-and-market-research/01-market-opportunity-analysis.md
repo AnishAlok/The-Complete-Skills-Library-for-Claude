@@ -1,4 +1,4 @@
-01
+
 # market-opportunity-analysis.md
 
 > **Skill:** Structures TAM/SAM/SOM analysis and market sizing frameworks to evaluate the size, attractiveness, and accessibility of a market opportunity.
